@@ -4,8 +4,8 @@ on:
     types: [opened]
   pull_request:
     types: [opened]
-jobs:
-  run:
+#jobs:
+  #run:
   # do nothing!
     #runs-on: ubuntu-latest
     #steps:
